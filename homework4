@@ -1,0 +1,8 @@
+my_string = "Я учусь в университете"
+input(len(my_string))
+input(my_string.upper())
+input(my_string.lower())
+input(my_string.replace(" ", ""))
+input(my_string[0])
+input(my_string[-1])
+
